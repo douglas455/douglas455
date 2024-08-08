@@ -1,4 +1,4 @@
-## olá galerinha
+## olá galerinha :)
 
 <!--
 **douglas455/douglas455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
